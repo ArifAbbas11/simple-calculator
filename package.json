@@ -1,7 +1,7 @@
 {
-  "name": "a110-basic-calculator",
+  "name": "a110-simple-calculator",
   "version": "1.0.1",
-  "description": "A simple calculator with typescript , node j.s and inqurer",
+  "description": "A simple calculator by useing TypeScript, Node.js and inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -11,6 +11,7 @@
   "author": "Abbas",
   "license": "MIT",
   "dependencies": {
+    "a110-basic-calculator": "^1.0.1",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
